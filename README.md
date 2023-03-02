@@ -9,6 +9,8 @@ https://chat.openai.com/chat
 
 
 ## text2image
+
+### model
 二次元系
 - Midjourney
 - Nijijourney
@@ -26,8 +28,12 @@ https://chat.openai.com/chat
 - https://civitai.com/models/6437/anidosmix
 - https://civitai.com/models/6250/dosmix
 
- 参考：
+参考：
  * https://twitter.com/LicE708/status/1628799566920433664?s=20
+ 
+### colabで試せるやつ
+https://github.com/camenduru/stable-diffusion-webui-colab
+https://original-game.com/how-to-try-stable-diffusion-web-ui-on-colab/
  
 #### beautiful.ai: text2presentation
 https://www.beautiful.ai/
