@@ -2,13 +2,13 @@
 
 ## 目的
 
-### text2text
+### # text2text
 
 #### ChatGPT
 https://chat.openai.com/chat
 
 
-### text2image
+### # text2image
 二次元系
 ・Midjourney
 ・Nijijourney
@@ -31,5 +31,5 @@ https://www.beautiful.ai/
 
 #### Garilleo AI: text2figma
 
-### image2text
+### # image2text
 
