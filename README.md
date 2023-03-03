@@ -28,7 +28,14 @@ https://chat.openai.com/chat
 - https://civitai.com/models/6437/anidosmix
 - https://civitai.com/models/6250/dosmix
 
-参考：
+### 用語
+
+#### LoRA
+Low-Rank Adaptationの略。モデルに追加学習させるための仕組みの一つ。
+例えば、お気に入りのモデルに、好きなアニメやゲームのLoRAモデルを追加学習することでお気に入りのモデルが生成するキャラクターが好きなアニメやゲームのコスプレをしてくれるというもの。
+* https://original-game.com/how-to-use-lora-stable-diffusion/
+
+### 参考：
  * https://twitter.com/LicE708/status/1628799566920433664?s=20
  
 ### colabで試せるやつ
