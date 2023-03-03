@@ -1,9 +1,10 @@
-# TryGenerativeAI
+# ✨TryGenerativeAI✨
 
 ## 目的
 GenerativeAIの進化がえぐいので、このリポジトリでお試ししてく。
 issueを切ってそこで試した内容とか参考にした記事とか書いてく
 
+以下整理していく
 ## # text2text
 
 #### ChatGPT
